@@ -1,0 +1,4 @@
+name='neha'
+course='cse AI-ML'
+print('my name is',name)
+print('my course is',course)
